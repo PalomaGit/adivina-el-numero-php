@@ -4,7 +4,7 @@ Juego realizado en **PHP** en el que el usuario intenta adivinar el número que 
 
 Tendrás <ins>5 intentos</ins> para averiguar el número.
 
-Juega aquí: <https://adivina-el-numero-php-78008.wasmer.app/>
+Juega aquí: <https://wasmer.io/es/apps/palomagit/adivina-el-numero-php-98e49/>
 
 <img width="400px" src="img/captura01.png">
 
