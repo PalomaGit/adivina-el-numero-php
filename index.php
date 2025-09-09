@@ -8,14 +8,14 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 
-
+<header>
+  <h1>Adivina el número (PHP)</h1>
+  <h2>Certificaciones de Profesionalidad</h2>
+</header>
+<br>
 
 <body>
-  <header>
-    <h1>Adivina el número (PHP)</h1>
-    <h2>Certificaciones de Profesionalidad</h2>
-  </header>
-  <br>
+
   <h1>Adivina el número</h1>
 
   <p>Adivina el número que estoy pensando. Está entre el 1 y el 100.</p>
